@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  font-family: 'Merriweather';
+  font-size: 16px;
+  background-image: url('./light-background.jpg');
+  min-height: 1000px;
+}
+
+.navbar {
+  background-color: white;
